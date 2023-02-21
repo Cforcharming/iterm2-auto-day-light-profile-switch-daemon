@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.7
+#!/usr/bin/env python3.10
 
 # Copyright (C) 2022 https://github.com/cforcharming
 # 
